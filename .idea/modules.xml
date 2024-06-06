@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Les Maps/Les Maps.iml" filepath="$PROJECT_DIR$/Les Maps/Les Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les Sets/Les Sets.iml" filepath="$PROJECT_DIR$/Les Sets/Les Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Les collections.iml" filepath="$PROJECT_DIR$/.idea/Les collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les listes/Les listes.iml" filepath="$PROJECT_DIR$/Les listes/Les listes.iml" />
+    </modules>
+  </component>
+</project>
